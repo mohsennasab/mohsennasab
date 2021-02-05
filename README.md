@@ -2,7 +2,6 @@
 Mohsen is an assistant professor in the [Department of Civil Engineering](https://www.stthomas.edu/engineering/undergraduate/civilengineering/) at the [University of St. Thomas](https://www.stthomas.edu/). His research projects deal with modeling and analyzing hydrologic processes. Particularly, the primary objectives of his research are (1) to improve the understanding of macro-scale hydrologic processes in cold-climate regions, and (2) to improve macro-scale representation and modeling of depression-dominated areas in hydrologic models. To achieve these objectives, he develops macro-scale hydrologic models.
 
 Alongside academic activities, he spends his time hiking and volunteering in community organizations.  If you are curious about Dr. Tahmasebi Nasab's interests, contact him by email, or phone call!
-![](http://mnspacegrant.wpengine.com/wp-content/uploads/2017/09/ustlogo.png)
 
 <!--
 **mohsennasab/mohsennasab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
