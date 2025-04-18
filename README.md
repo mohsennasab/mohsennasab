@@ -1,8 +1,8 @@
 ## 🔗 Professional Profiles  
-[Google Scholar](#) | [ResearchGate](#) | [YouTube](#) | [LinkedIn](#)
+[Google Scholar](https://scholar.google.com/citations?user=WzJw2KIAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Mohsen-Tahmasebi-Nasab) | [YouTube](https://www.youtube.com/channel/UCeEOWZIffBSxBmsrPTo0_hg) | [LinkedIn](http://www.linkedin.com/in/hydromohsen)
 
 ## 👨‍🔬 About Me  
-**Dr. Mohsen Tahmasebi Nasab** ([How to pronounce?](#)) is a water resources engineer at AECOM and a researcher who has served as a civil engineering professor at the University of St. Thomas and Bucknell University.
+**Dr. Mohsen Tahmasebi Nasab** ([How to pronounce?](https://namedrop.io/mohsentahmasebinasab)) is a water resources engineer at AECOM and a researcher who has served as a civil engineering professor at the University of St. Thomas and Bucknell University.
 
 Dr. Tahmasebi Nasab's expertise lies in modeling and analyzing hydrologic processes. Specifically, he aims to:
 
